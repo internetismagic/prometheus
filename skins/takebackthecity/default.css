@@ -1,0 +1,41 @@
+.row {padding-left: 80px;}
+body {background: url('background.jpg') no-repeat center center fixed;
+-moz-background-size: cover;
+-webkit-background-size: cover;
+-o-background-size: cover;
+background-size: cover;
+width: 1280px;} 
+.meerkat {background-color: #000;
+opacity: 0.3;
+width: 400px;
+color: #ccc;
+padding: 6px;
+border-radius: 2px;}
+.tigerlion {background-color: #eee;
+margin-left: -140px;
+margin-bottom: 50px;
+margin-right: 90px;
+padding: 8px;
+border-radius: 2px;
+opacity: 0.4;}
+.nav-pills {color: #555;}
+h1 {margin-top: -4px;
+background-color: #fff;
+opacity: 0.5;
+color: #000
+border-radius: 2px;
+padding: 5px;}
+.nav-pills li a:active {background-color: #111; opacity: 0.9;}
+.nav-pills li a {color: #aaa; opacity: 0.9;}
+.nav-pills li a:hover {background-color: #0c0c0c;
+color: #ccc;
+opacity: 0.6;
+margin-top: 0px;}
+.bannanar {background-color: #000;
+margin-top: 1px;
+opacity: 0.4;
+padding: 8px;
+margin-left: 79px;
+margin-right: 90px;
+height: 100px;
+border-radius: 2px;}
